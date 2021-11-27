@@ -1,3 +1,3 @@
 TSPLIB instances
 
-(plots/pr144.tsp.png)
+![](plots/pr144.tsp.png)
