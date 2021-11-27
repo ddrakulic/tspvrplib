@@ -2,6 +2,8 @@ TSPLIB instances
 
 TSPLIB instances
 
+<img src="plots/att48.tsp.png" width="500px"><img src="plots/bayg29.tsp.png" width="500px">
+
 <img src="plots/bays29.tsp.png" width="500px"> <img src="plots/berlin52.tsp.png" width="500px">
 
 <img src="plots/bier127.tsp.png" width="500px"><img src="plots/burma14.tsp.png" width="500px">
