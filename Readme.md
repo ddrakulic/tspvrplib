@@ -34,6 +34,7 @@ TSPLIB instances
 
 <img src="plots/pr76.tsp.png" width="500px"><img src="plots/rat195.tsp.png" width="500px">
 
+
 <img src="plots/rat99.tsp.png" width="500px"><img src="plots/rd100.tsp.png" width="500px">
 
 <img src="plots/st70.tsp.png" width="500px"><img src="plots/u159.tsp.png" width="500px">
