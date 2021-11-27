@@ -1,3 +1,3 @@
 TSPLIB instances
 
-![](plots/pr144.tsp.png)
+![](plots/bayg29.tsp.png | width=100)
