@@ -4,13 +4,9 @@ TSPLIB instances
 
 <img src="plot/ch130.tsp.png" width="500px"><img src="plot/ch150.tsp.png" width="500px">
 
-<img src="plot/d198.tsp.png" width="500px"><img src="plot/dantzig42.tsp.png" width="500px">
+<img src="plot/d198.tsp.png" width="500px"><img src="plot/eil101.tsp.png" width="500px">
 
-<img src="plot/eil101.tsp.png" width="500px"><img src="plot/eil51.tsp.png" width="500px">
-
-<img src="plot/eil76.tsp.png" width="500px"><img src="plot/gr120.tsp.png" width="500px">
-
-<img src="plot/gr137.tsp.png" width="500px"> <img src="plot/gr96.tsp.png" width="500px">
+<img src="plot/eil51.tsp.png" width="500px"><img src="plot/eil76.tsp.png" width="500px">
 
 <img src="plot/kroA100.tsp.png" width="500px"><img src="plot/kroA150.tsp.png" width="500px">
 
