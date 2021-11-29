@@ -28,5 +28,3 @@ TSPLIB instances
 <img src="plot/rat99.tsp.png" width="500px"><img src="plot/rd100.tsp.png" width="500px">
 
 <img src="plot/st70.tsp.png" width="500px"><img src="plot/u159.tsp.png" width="500px">
-
-<img src="plot/ulysses16.tsp.png" width="500px"><img src="plot/ulysses22.tsp.png" width="500px">
