@@ -1,8 +1,6 @@
 TSPLIB instances
 
-<img src="plot/berlin52.tsp.png" width="500px">
-
-<img src="plot/bier127.tsp.png" width="500px"><img src="plot/burma14.tsp.png" width="500px">
+<img src="plot/berlin52.tsp.png" width="500px"><img src="plot/bier127.tsp.png" width="500px">
 
 <img src="plot/ch130.tsp.png" width="500px"><img src="plot/ch150.tsp.png" width="500px">
 
