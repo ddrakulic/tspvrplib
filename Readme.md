@@ -1,31 +1,31 @@
 TSPLIB instances
 
-<img src="plot/eil51.tsp.png" width="500px"> <img src="plot/berlin52.tsp.png" width="500px">
+<img src="tsp_plots/eil51.tsp.png" width="500px"> <img src="tsp_plots/berlin52.tsp.png" width="500px">
 
-<img src="plot/st70.tsp.png" width="500px"> <img src="plot/eil76.tsp.png" width="500px">
+<img src="tsp_plots/st70.tsp.png" width="500px"> <img src="tsp_plots/eil76.tsp.png" width="500px">
 
-<img src="plot/pr76.tsp.png" width="500px"> <img src="plot/rat99.tsp.png" width="500px">
+<img src="tsp_plots/pr76.tsp.png" width="500px"> <img src="tsp_plots/rat99.tsp.png" width="500px">
 
-<img src="plot/kroA100.tsp.png" width="500px"> <img src="plot/kroB100.tsp.png" width="500px">
+<img src="tsp_plots/kroA100.tsp.png" width="500px"> <img src="tsp_plots/kroB100.tsp.png" width="500px">
 
-<img src="plot/kroC100.tsp.png" width="500px"> <img src="plot/kroD100.tsp.png" width="500px">
+<img src="tsp_plots/kroC100.tsp.png" width="500px"> <img src="tsp_plots/kroD100.tsp.png" width="500px">
 
-<img src="plot/kroE100.tsp.png" width="500px"> <img src="plot/rd100.tsp.png" width="500px">
+<img src="tsp_plots/kroE100.tsp.png" width="500px"> <img src="tsp_plots/rd100.tsp.png" width="500px">
 
-<img src="plot/eil101.tsp.png" width="500px"> <img src="plot/lin105.tsp.png" width="500px">
+<img src="tsp_plots/eil101.tsp.png" width="500px"> <img src="tsp_plots/lin105.tsp.png" width="500px">
 
-<img src="plot/pr107.tsp.png" width="500px"> <img src="plot/pr124.tsp.png" width="500px">
+<img src="tsp_plots/pr107.tsp.png" width="500px"> <img src="tsp_plots/pr124.tsp.png" width="500px">
 
-<img src="plot/bier127.tsp.png" width="500px"> <img src="plot/ch130.tsp.png" width="500px">
+<img src="tsp_plots/bier127.tsp.png" width="500px"> <img src="tsp_plots/ch130.tsp.png" width="500px">
 
-<img src="plots/pr136.tsp.png" width="500px"> <img src="plot/pr144.tsp.png" width="500px">
+<img src="tsp_plots/pr136.tsp.png" width="500px"> <img src="tsp_plots/pr144.tsp.png" width="500px">
 
-<img src="plot/ch150.tsp.png" width="500px"> <img src="plot/kroA150.tsp.png" width="500px">
+<img src="tsp_plots/ch150.tsp.png" width="500px"> <img src="tsp_plots/kroA150.tsp.png" width="500px">
 
-<img src="plot/kroB150.tsp.png" width="500px"> <img src="plot/pr152.tsp.png" width="500px">
+<img src="tsp_plots/kroB150.tsp.png" width="500px"> <img src="tsp_plots/pr152.tsp.png" width="500px">
 
-<img src="plot/u159.tsp.png" width="500px"> <img src="plot/rat195.tsp.png" width="500px">
+<img src="tsp_plots/u159.tsp.png" width="500px"> <img src="tsp_plots/rat195.tsp.png" width="500px">
 
-<img src="plot/d198.tsp.png" width="500px"> <img src="plot/kroA200.tsp.png" width="500px">
+<img src="tsp_plots/d198.tsp.png" width="500px"> <img src="tsp_plots/kroA200.tsp.png" width="500px">
 
-<img src="plot/kroB200.tsp.png" width="500px">
+<img src="tsp_plots/kroB200.tsp.png" width="500px">
